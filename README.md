@@ -21,7 +21,6 @@ isCoder(you)
 * Javascript
   * React
   * Node
-    * Discord.JS
 * HTML
 * CSS
 * Python
