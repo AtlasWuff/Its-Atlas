@@ -17,7 +17,7 @@ function isCoder(user) {
 
 isCoder(you)
 ```
-## Languages, frameworks, & libraries I know
+## Languages, libraries, etc. I know
 * Javascript
   * React
   * Node
