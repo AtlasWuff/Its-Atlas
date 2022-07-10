@@ -1,5 +1,9 @@
-[![I'm in a microwave!](https://user-images.githubusercontent.com/62531512/178131098-51911e02-12ca-413f-8721-672e7db94956.gif)](https://tachanks.xyz "Click for my website")
-### Hey look, I'm in a microwave
+<p align="center">
+    <a href="https://tachanks.xyz" target="_blank" title="Links to my website!">
+        <img alt="I'm in a microwave!" src="https://user-images.githubusercontent.com/62531512/178131098-51911e02-12ca-413f-8721-672e7db94956.gif" height="250"/>
+    </a>
+</p>
+
 ```javascript
 function isCoder(user) {
     const { hobbiesAndInterests, isNerd, profileAccess } = user
