@@ -20,6 +20,7 @@ isCoder(you)
 ## Languages, libraries, etc. I know
 * Javascript
   * React
+  * Next
   * Node
 * HTML
 * CSS
