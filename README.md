@@ -4,6 +4,8 @@
     </a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/484343723426054150)](https://discord.com/users/484343723426054150)
+
 ```javascript
 function isCoder(user) {
     const { hobbiesAndInterests, isNerd, profileAccess } = user
