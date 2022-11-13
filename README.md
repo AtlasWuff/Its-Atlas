@@ -28,12 +28,6 @@ My website is https://tachanks.xyz where you can see my projects along other ran
     
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-tachanks)
     
-## Other
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-    
-    
 ## I'm in a microwave!
 <p align="left">
     <a href="https://tachanks.xyz" target="_blank" title="Links to my website!">
