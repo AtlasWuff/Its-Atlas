@@ -2,7 +2,7 @@
 
 ## About me
 
-Hey, I'm Tachanks, an aspiring full-stack web developer. I've worked on various side projects, first starting in discord bot development, later moving onto front end and soon-to-be backend. I've also dabbled in unity but asset design have never been my forte. I'm currently a student working on these projects in my free time alongside various clubs and organizations I'm with.
+Hey, I'm Tachanks, an aspiring full-stack developer. I've worked on various side projects, first starting in discord bot development, later moving onto front end and soon-to-be backend. I've also dabbled in unity but asset design have never been my forte. I'm currently a student working on these projects in my free time alongside various clubs and organizations I'm with.
 
 My website is https://tachanks.xyz where you can see my projects along other random stuff I felt like adding. My skills have 100% gotten better than show on my site I just have not ahad the time to change it otherwise.
 
