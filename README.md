@@ -2,7 +2,7 @@
 
 ## About me
 
-Hey, I'm Tachanks, an aspiring full-stack developer. I've worked on various side projects, first starting in discord bot development, later moving onto front end and soon-to-be backend. I've also dabbled in unity but asset design have never been my forte. I'm currently a student working on these projects in my free time alongside various clubs and organizations I'm with.
+Hey, I'm Tachanks, an aspiring full-stack developer. I've worked on various side projects, first starting in discord bot development, later moving onto front end and soon-to-be backend. I'm currently a student working on these projects in my free time alongside various clubs and organizations I'm with.
 
 My website is https://tachanks.xyz where you can see my projects along other random stuff I felt like adding. My skills have gotten much better than shown on my site I just have not had the time to change it otherwise.
 
@@ -24,7 +24,6 @@ My website is https://tachanks.xyz where you can see my projects along other ran
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
     
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-tachanks)
     
