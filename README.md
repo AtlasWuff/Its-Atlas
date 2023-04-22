@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=its-tachanks&color=red)
 
 ## About me
-
-Hey, I'm an aspiring mechanical engineer, however I code as a hobby. I've worked on various side projects, mostly starting out with front end and soon-to-be backend web development. I'm currently a student working on these projects in my free time alongside various clubs and organizations I'm with.
-
-My website is https://tachanks.xyz where you can see my projects along other random stuff I felt like adding. My skills have gotten much better than shown on my site I just have not had the time to change it otherwise.
+- Aspiring mechanical engineer
+- Hobbyist coder
+- My website: https://tachanks.xyz
 
 <p align="center">
     <a href="https://discord.com/users/484343723426054150" target="_blank" title="Links to my discord profile!">
@@ -26,10 +25,6 @@ My website is https://tachanks.xyz where you can see my projects along other ran
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-tachanks)
-    
-## I'm in a microwave!
-<p align="left">
-    <a href="https://tachanks.xyz" target="_blank" title="Links to my website!">
-        <img alt="I'm in a microwave!" src="https://user-images.githubusercontent.com/62531512/178131098-51911e02-12ca-413f-8721-672e7db94956.gif" height="200"/>
-    </a>
-</p>
+
+## Contact me
+No fuck you
