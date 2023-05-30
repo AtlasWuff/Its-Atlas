@@ -27,4 +27,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-tachanks)
 
 ## Contact me
-No fuck you
