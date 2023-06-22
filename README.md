@@ -3,7 +3,6 @@
 ## About me
 - Aspiring mechanical engineer
 - Hobbyist coder
-- My website: https://tachanks.xyz
 
 <p align="center">
     <a href="https://discord.com/users/484343723426054150" target="_blank" title="Links to my discord profile!">
@@ -25,6 +24,3 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-tachanks)
-
-## Contact me
-💖
