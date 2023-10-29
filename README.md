@@ -1,8 +1,4 @@
-![](https://komarev.com/ghpvc/?username=its-tachanks&color=red)
-
-## About me
-- Aspiring mechanical engineer
-- Hobbyist coder
+![](https://komarev.com/ghpvc/?username=its-atlas&color=red)
 
 <p align="center">
     <a href="https://discord.com/users/484343723426054150" target="_blank" title="Links to my discord profile!">
