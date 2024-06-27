@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=its-atlas&color=red)
+![](https://komarev.com/ghpvc/?username=atlaswuff&color=red)
 
 <p align="center">
     <a href="https://discord.com/users/484343723426054150" target="_blank" title="Links to my discord profile!">
@@ -8,4 +8,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/484343723426054150)](https://discord.com/users/484343723426054150)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-atlas)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atlaswuff)
